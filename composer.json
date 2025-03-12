@@ -13,7 +13,7 @@
         "awt/apilogger": "dev-master",
         "bezhansalleh/filament-shield": "^3.3",
         "croustibat/filament-jobs-monitor": "^2.5",
-        "dedoc/scramble": "^0.11.33",
+        "dedoc/scramble": "^0.12.10",
         "divtag-nl/license-plate": "^1.0",
         "dutchcodingcompany/filament-developer-logins": "^1.6",
         "dutchcodingcompany/filament-socialite": "^2.3",
