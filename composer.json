@@ -30,7 +30,7 @@
         "marjose123/filament-lockscreen": "^2.4",
         "mvenghaus/filament-plugin-schedule-monitor": "^3.0",
         "niladam/filament-auto-logout": "^1.0",
-        "owen-it/laravel-auditing": "^13.6",
+        "owen-it/laravel-auditing": "^14.0",
         "owenvoke/blade-fontawesome": "^2.8",
         "pxlrbt/filament-activity-log": "^1.1",
         "pxlrbt/filament-excel": "^2.4",
