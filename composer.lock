@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aaaed845419b03e8224e1415bf8ac2dc",
+    "content-hash": "321e921d570027b782befb616e5772c0",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -10821,16 +10821,16 @@
         },
         {
             "name": "stephenjude/filament-two-factor-authentication",
-            "version": "0.0.14",
+            "version": "0.0.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stephenjude/filament-two-factor-authentication.git",
-                "reference": "ae6927adbbb6fa7d0c22f6c913591b1166e88197"
+                "reference": "af98cb59b0ea8f6b10a556ddc109dc7cadb0b7c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stephenjude/filament-two-factor-authentication/zipball/ae6927adbbb6fa7d0c22f6c913591b1166e88197",
-                "reference": "ae6927adbbb6fa7d0c22f6c913591b1166e88197",
+                "url": "https://api.github.com/repos/stephenjude/filament-two-factor-authentication/zipball/af98cb59b0ea8f6b10a556ddc109dc7cadb0b7c7",
+                "reference": "af98cb59b0ea8f6b10a556ddc109dc7cadb0b7c7",
                 "shasum": ""
             },
             "require": {
@@ -10894,7 +10894,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-02-11T12:27:56+00:00"
+            "time": "2025-04-16T10:45:45+00:00"
         },
         {
             "name": "swisnl/filament-backgrounds",
@@ -16246,5 +16246,5 @@
         "php": "^8.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
